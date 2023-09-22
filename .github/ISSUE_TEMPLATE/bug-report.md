@@ -21,4 +21,8 @@ assignees: ''
 [Best case scenario, a minimal example to reproduce the error. Minimal reporting requirement is gpt-engineer call and used prompt.]
 
 **Environment**
-[Language model: [e.g. GPT-4]]
+[Language mode
+
+
+
+ads
